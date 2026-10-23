@@ -1,5 +1,7 @@
 # Publish Ordered
 
+[![Maven Central](https://img.shields.io/maven-central/v/de.joscha-goetz/publish-ordered?style=for-the-badge&logo=apachemaven&label=Maven%20Central&color=C71A36)](https://central.sonatype.com/artifact/de.joscha-goetz/publish-ordered)
+
 A Gradle plugin that publishes multi-version Minecraft mods one version after another, oldest first, so the newest Minecraft version ends up on top on Modrinth and CurseForge.
 
 ## Requirements
